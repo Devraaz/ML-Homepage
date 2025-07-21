@@ -54,8 +54,8 @@ You can find all my ML projects with working demos and source code linked direct
 
 Feel free to connect with me:
 
-- **GitHub**: [@yourusername](https://github.com/Devraaz)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/devraj-dora/)
+- **GitHub**: [@devraaz](https://github.com/Devraaz)
+- **LinkedIn**: [linkedin.com/in/DevrajDora](https://www.linkedin.com/in/devraj-dora/)
 - **Email**: devrajdora445@gmail.com
 
 ---
